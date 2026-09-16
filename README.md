@@ -7,7 +7,6 @@ working on:
 
 what I am good at:
 - 0 to 1 product ideation
-- mobile apps
 - UI/UX design
 
 
