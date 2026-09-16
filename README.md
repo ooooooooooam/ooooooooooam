@@ -3,8 +3,6 @@ working on:
 - Art OS (started 8/2026), web browser
 - Generative Garments (started 7/2026), fashion design
 
-- PSYCHOPATH Pictures (started 9/2026), ai films
-
 
 what I am good at:
 - 0 to 1 product ideation
