@@ -1,16 +1,18 @@
-## Hi there 👋
+working on:
+- Orchestra (started 1/2023), DJ software
+- Art OS (started 8/2026), web browser
+- Generative Garments (started 7/2026), fashion design
 
-<!--
-**ooooooooooam/ooooooooooam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- PSYCHOPATH Pictures (started 9/2026), ai films
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+what I am good at:
+- 0 to 1 product ideation
+- mobile apps
+- UI/UX design
+
+
+contact:
+- website: https://orchestra.dj
+- email: ch@orchestra.dj
+- linkedin: https://linkedin.com/in/chris-horton-v0
