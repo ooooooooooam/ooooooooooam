@@ -1,6 +1,5 @@
 working on:
 - Orchestra (started 1/2023), DJ software
-- Art OS (started 8/2026), web browser
 
 
 what I am good at:
