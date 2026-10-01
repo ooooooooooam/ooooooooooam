@@ -9,7 +9,7 @@ what I am good at:
 - 0 to 1 product ideation
 - UX design
 - prototyping fast
-- talking to customers / working with user feedback
+- talking to customers / processing user feedback
 
 
 contact:
